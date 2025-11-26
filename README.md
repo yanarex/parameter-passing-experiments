@@ -2,7 +2,7 @@
 Team assignment for my Programming Language Concepts class
 
 
-The assignment is as followed
+The assignment is as follows
 
 You must submit a complete report that clearly shows:
 1. Your code (screenshot in the report) — 10 points
@@ -11,8 +11,7 @@ You must submit a complete report that clearly shows:
 4. Conclusion (final answer in the report) — 10 points
 5. A table in your report clearly showing which questions and which parts of this
 assignment were completed by you and your teammate
-
-
+<!-- -->
 
 1. Write a program in a language that you know to determine the ratio of the time required to pass
 a large array by reference and the time required to pass the same array by value. Make the array
