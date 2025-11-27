@@ -1,4 +1,4 @@
-# parameter-passing-experiments
+# Parameter-Passing-experiments
 Team assignment for my Programming Language Concepts class
 
 
