@@ -42,11 +42,10 @@ public class Benchmark {
         System.out.printf("Pass-by-value (copy) total time: %.3f ms%n", valTimeMs);
         System.out.printf("Ratio (value / reference): %.3f%n", ratio);
         System.out.printf("Pass-by-value took about %.0f times longer than pass-by-reference.%n", ratio);
-
     }
 
     private static void passByReference(int[] arr) {
-        // Read one element to prevent the JVM from optimizing the call away.
+        // Read one element at a time
         sink += arr[0];
     }
 }
